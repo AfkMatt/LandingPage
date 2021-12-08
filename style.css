@@ -26,8 +26,7 @@ a {
     align-items: center;
     justify-content: center;
     gap: 50px;
-    padding: 100px;
-    border: 5px solid red;
+    padding: 120px;
 }
 
 .maintext {
@@ -47,6 +46,7 @@ a {
 }
 
 button {
+    border-radius: 10px;
     background-color: #3882f6;
     padding: 8px 25px;
     font-weight: bold;
