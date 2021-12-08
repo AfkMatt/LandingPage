@@ -1,6 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
+    font-family: sans-serif;
 }
 
 .header {
@@ -51,4 +52,17 @@ button {
     padding: 8px 25px;
     font-weight: bold;
     color: white; 
+}
+
+h4 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    text-align: center;
+}
+
+.sectiontwo {
+    display: flex;
+    justify-content: space-around;
+    margin: 70px 200px 200px 200px;
 }
