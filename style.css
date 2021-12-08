@@ -13,5 +13,11 @@ html, body {
 
 h2 {
     padding-left: 200px;
-    padding-right: 700px;
+    padding-right: 550px;
+}
+
+a {
+    padding-right: 20px;
+    color: #e5e7eb;
+    text-decoration: none;
 }
