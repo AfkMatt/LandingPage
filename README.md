@@ -1,2 +1,2 @@
 # LandingPage
-First project from TOP. The Landing Page!
+This is the first project on The Odin Project. Create a Landing Page.
