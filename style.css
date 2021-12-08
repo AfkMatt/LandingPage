@@ -23,7 +23,8 @@ a {
     font-size: 18px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
+    padding: 100px;
     border: 5px solid red;
 }
 
@@ -34,9 +35,10 @@ a {
 }
 
 .seconetext, .seconeimg {
+    color: #e5e7eb;
     width: 515px;
     height: 250px;
-    margin: 100px;
+    
 }
 
 button {
