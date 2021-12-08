@@ -16,6 +16,7 @@ a {
     color: #e5e7eb;
     text-decoration: none;
     padding-right: 20px;
+    font-size: 18px;
 }
 
 .sectionone {
@@ -23,7 +24,8 @@ a {
     font-size: 18px;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
+    gap: 50px;
     padding: 100px;
     border: 5px solid red;
 }
@@ -38,7 +40,10 @@ a {
     color: #e5e7eb;
     width: 515px;
     height: 250px;
-    
+}
+
+.seconeimg {
+    padding-right:50px;
 }
 
 button {
