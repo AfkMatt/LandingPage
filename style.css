@@ -12,9 +12,37 @@ html, body {
     justify-content: space-evenly;
 }
 
-
 a {
     color: #e5e7eb;
     text-decoration: none;
     padding-right: 20px;
+}
+
+.sectionone {
+    background-color: #1f2937;
+    font-size: 18px;
+    display: flex;
+    border: 5px solid red;
+}
+
+.seconetext {
+    padding: 30px;
+    border: 5px solid blue;
+}
+
+.seconeimg {
+    border: 5px solid green;
+}
+
+.maintext {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8
+}
+
+button {
+    background-color: #3882f6;
+    padding: 8px 25px;
+    font-weight: bold;
+    color: white;
 }
