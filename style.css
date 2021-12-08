@@ -8,4 +8,10 @@ html, body {
     color: #f9faf8;
     background-color: #1f2937;
     display: flex;
+    align-items: center;
+}
+
+h2 {
+    padding-left: 200px;
+    padding-right: 700px;
 }
