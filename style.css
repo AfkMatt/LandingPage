@@ -63,14 +63,14 @@ h4 {
 
 .sectiontwo {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     margin: 70px 200px 200px 200px;
+    gap: 75px;
 }
 
 .imgwithtext {
     text-align: center;
     width: 170px;
-    
 }
 
 .imgwithtext img {
