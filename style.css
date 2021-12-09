@@ -125,3 +125,12 @@ h4 {
 .secfourbutton {
     border: 2px solid white;
 }
+
+footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
