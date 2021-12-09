@@ -82,3 +82,14 @@ h4 {
     border: 3px solid #3882f7;
     border-radius: 10px;
 }
+
+.sectionthree {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    padding: 150px 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
