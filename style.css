@@ -77,3 +77,8 @@ h4 {
     display: block;
     margin: 0 auto;
 }
+
+img {
+    border: 3px solid #3882f7;
+    border-radius: 10px;
+}
