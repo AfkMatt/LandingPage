@@ -83,13 +83,18 @@ h4 {
     border-radius: 10px;
 }
 
+.thor {
+    font-size: 30px;
+    text-align: right;
+    margin-right: 40px;
+}
+
 .sectionthree {
     background-color: #E5E7EB;
     font-size: 36px;
     font-style: italic;
     color: #1f2937;
     padding: 150px 450px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
+
+
