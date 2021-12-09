@@ -66,3 +66,14 @@ h4 {
     justify-content: space-around;
     margin: 70px 200px 200px 200px;
 }
+
+.imgwithtext {
+    text-align: center;
+    width: 170px;
+    
+}
+
+.imgwithtext img {
+    display: block;
+    margin: 0 auto;
+}
